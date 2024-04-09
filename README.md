@@ -13,7 +13,8 @@ git clone https://github.com/JesusJs/Sistema_Gestion_Alquileres.git
 
 2. **Script sql-server:**
    ve a la carpeta llamada "Script_SqlServer", ejecuta el script en sql-server para crear, la base de datos, usuario y contrasena.
-     **Instancia de base de datos SQL:**
+
+   **Instancia de base de datos SQL:**
         Coloca aqui la instancia de tu sqlserver:
      ![image](https://github.com/JesusJs/GestionAlquileres/assets/67086360/c1b771ef-b3d4-458d-ba59-b50e86da67c8)
 
