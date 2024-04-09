@@ -8,7 +8,7 @@ Este repositorio contiene el código fuente de una API para un Sistema de Gesti�
    Clona este repositorio en tu máquina local utilizando el siguiente comando:
    
 ```
-git clone https://github.com/JesusJs/Sistema_Gestion_Alquileres.git
+git clone https://github.com/JesusJs/GestionAlquileres.git
 ```
 
 2. **Script sql-server:**
