@@ -2,7 +2,7 @@
 using AppGestorPropiedades.Dominio.Interfaces;
 using AppGestorPropiedades.Dominio.Interfaces.Repositorios;
 using AppGestorPropiedades.Dominio.Modelos;
-using AppGrestorPropiedades.Application.Interfaces;
+using AppGrestorPropiedades.Dominio.Interfaces;
 using AutoMapper;
 
 namespace AppGrestorPropiedades.Application.UseCase

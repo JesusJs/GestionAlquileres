@@ -1,7 +1,7 @@
 ﻿using AppGestorPropiedades.Dominio.Entidades;
 using AppGestorPropiedades.Dominio.Interfaces.Repositorios;
 using AppGestorPropiedades.Dominio.Modelos;
-using AppGrestorPropiedades.Application.Interfaces;
+using AppGrestorPropiedades.Dominio.Interfaces;
 using AutoMapper;
 using System;
 using System.Collections.Generic;

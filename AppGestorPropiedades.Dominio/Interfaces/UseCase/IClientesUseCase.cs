@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AppGrestorPropiedades.Application.Interfaces
+namespace AppGrestorPropiedades.Dominio.Interfaces
 {
     public  interface IClientesUseCase
     {
